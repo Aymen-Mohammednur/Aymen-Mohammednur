@@ -1,6 +1,9 @@
 ### Hey GitHub, It's Aymen 😃👋
 
-- 💬 Find me on [LinkedIn](https://linkedin.com/in/aymen-mohammednur) and [Twitter](https://twitter.com/Aymen_ua)
+![](https://komarev.com/ghpvc/?username=Aymen-Mohammednur&color=DF6D74)
+
+- 🔭 Interested in working on Node and Flutter projects!
+- 💬 Find me on [LinkedIn](https://linkedin.com/in/aymen-mohammednur) and [Twitter](https://twitter.com/Aymen_ua).
 
 <!--
 **Aymen-Mohammednur/Aymen-Mohammednur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
