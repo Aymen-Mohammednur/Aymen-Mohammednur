@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Aymen-Mohammednur&color=DF6D74)
 
-- 🔭 Interested in working on Nodejs, React and Flutter projects!
+- 🔭 Interested in working on Nodejs, React, Vue and Flutter projects!
 - 💬 Find me on [LinkedIn](https://linkedin.com/in/aymen-mohammednur) and [Twitter](https://twitter.com/Aymen_ua).
 
 <!--
