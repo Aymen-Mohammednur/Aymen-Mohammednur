@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Aymen-Mohammednur&color=DF6D74)
 
-- 🔭 Interested in working on Nodejs, React and Vue projects!
-- 💬 Find me on [LinkedIn](https://linkedin.com/in/aymen-mohammednur) and [Twitter](https://twitter.com/Aymen_ua).
+- 🔭 Interested in working on Python and Node.js projects!
+- 💬 Find me on [LinkedIn](https://linkedin.com/in/aymen-mohammednur).
 
 <!--
 **Aymen-Mohammednur/Aymen-Mohammednur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
